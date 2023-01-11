@@ -21,7 +21,7 @@ USE:
 
 ## Architecture ##
 The following architecture shows how this microservices project works.
-![Alt text](/imgs/architecture-course.png "")
+![Alt text](/imgs/architecture-course-real.png "")
 
 In each microservice it has a configuration similar to the following, only the name changes, which is the identifier of the microservice.
 ```
